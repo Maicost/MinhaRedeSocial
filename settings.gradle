@@ -1,0 +1,2 @@
+rootProject.name = "Minha Rede Social"
+include ':app'
